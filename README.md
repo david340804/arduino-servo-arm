@@ -1,2 +1,2 @@
-# arduino-servo-arm
-Controller for a multi-jointed servo based arm
+# Arduino Multi-Jointed Servo Arm
+Arduino control software for a servo arm
