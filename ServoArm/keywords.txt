@@ -1,0 +1,12 @@
+ServoArm	KEYWORD1
+getJointPos	KEYWORD2
+setJointPos	KEYWORD2
+addJoint	KEYWORD2
+Joint	KEYWORD1
+getPin	KEYWORD2
+setPos	KEYWORD2
+getPos	KEYWORD2
+setSoftStop_min	KEYWORD2
+getSoftStop_min	KEYWORD2
+setSoftStop_max	KEYWORD2
+getSoftStop_max	KEYWORD2
